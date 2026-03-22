@@ -1,6 +1,6 @@
 # Projet   Flutterapp
 
-Réalisé par : **djuidje ange**  **blanche bassiga** **Noboussi fomena fred**.
+Réalisé par : **djuidje ange** , **blanche bassiga**, **Noboussi fomena fred**.
 
  Comment tester ce projet :
 1. Cloner le dépôt.
